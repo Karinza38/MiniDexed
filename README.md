@@ -1,4 +1,4 @@
-# MiniDexed ![Github Build Status](https://github.com/probonopd/MiniDexed/actions/workflows/build.yml/badge.svg)
+MiniDexed ![Github Build Status](https://github.com/probonopd/MiniDexed/actions/workflows/build.yml/badge.svg)
 
 ![minidexed](https://user-images.githubusercontent.com/2480569/161813414-bb156a1c-efec-44c0-802a-8926412a08e0.jpg)
 
